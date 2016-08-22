@@ -2,16 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb93f022-3419-4130-9e70-ee797cb42f3e" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ad280.gif" afterPath="$PROJECT_DIR$/ad280.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-post01.html" afterPath="$PROJECT_DIR$/blog-post01.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-post02.html" afterPath="$PROJECT_DIR$/blog-post02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-post03.html" afterPath="$PROJECT_DIR$/blog-post03.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/check-example.php" afterPath="$PROJECT_DIR$/check-example.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ad280.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-post01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-post02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-post03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/check-example.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact_send.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/background_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/behance_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/checkfalse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/comments_icon-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/comments_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/confirm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/deviantart_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dribble_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/facebook_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flickr_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/forrst_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/google_map.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/likes_icon-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/likes_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/seperator_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/seperator_filter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/seperator_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tags_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/thumblr_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tweet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/twitter_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vimeo_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-work01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-work02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-work03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coders.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,7 +98,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="-1189">
               <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding>
                 <marker date="1471876299000" expanded="true" signature="50:52" ph="..." />
@@ -157,6 +190,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -230,25 +277,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471875486421</updated>
-      <workItem from="1471875488157" duration="853000" />
+      <workItem from="1471875488157" duration="1007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="853000" />
+    <option name="totallyTimeSpent" value="1007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="962" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.49541286" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5045872" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -301,9 +348,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/background_main.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="-1189">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding>
             <marker date="1471876299000" expanded="true" signature="50:52" ph="..." />
