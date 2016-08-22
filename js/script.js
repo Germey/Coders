@@ -2,19 +2,6 @@ function initialise(content) {
     // Effects
     $easingType= 'easeInOutQuart';
 
-
-    /*---------------------------------------------- 
-     I S O T O P E   (masonry)
-     ------------------------------------------------*/
-    var $container = $('#masonry');
-    $container.imagesLoaded( function(){
-        $container.isotope({
-            itemSelector : '.masonry_item'
-        });
-    });
-
-
-
     /*---------------------------------------------- 
      S L I D E   U P 
      ------------------------------------------------*/

@@ -8,33 +8,20 @@ $(function() {
             ele.find('.coder-subtitle').text(item.subtitle);
             ele.find('.coder-description').text(item.description);
             ele.find('.coder-user').text(item.user);
-            ele.appendTo($('#masonry'));
-            setTimeout(function() {
-                var offset = $('#footer').offset().top;
-                if (offset < $(window).height()) {
-                    ele.addClass('fadeInUp').removeClass('none');
-                } else {
-                    ele.addClass('fadeInUp');
-                }
-            }, index * 500);
+            ele.appendTo($('#masonry')).removeClass('none').addClass('isotope-item');
         });
         $('#masonry').css('height', 'inherit');
-    });
-
-    $(window).scroll(function() {
-        var scroll_height = $(window).height() + $(this).scrollTop();
-        var offset = $('#footer').offset().top;
-        var extras = $('#masonry > .masonry_item:not(:visible)');
-        extras.each(function(index) {
-            var ele = $(this);
-            if (scroll_height > offset) {
-                setTimeout(function() {
-                    ele.removeClass('none');
-                }, index * 1000);
-            }
+        var $container = $('#masonry');
+        $container.imagesLoaded( function(){
+            $container.isotope({
+                itemSelector : '.masonry_item'
+            });
         });
     });
 
-})
+});
+
+
+
 
 
